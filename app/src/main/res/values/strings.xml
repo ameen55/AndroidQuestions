@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Questions</string>
+    <array name="image_ok">
+        <item>@drawable/m0</item>
+        <item>@drawable/m1</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/m4</item>
+        <item>@drawable/m5</item>
+        <item>@drawable/m6</item>
+        <item>@drawable/m7</item>
+    </array>
+</resources>
